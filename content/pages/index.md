@@ -12,7 +12,7 @@ sections:
       Forniamo consulenze di prefattibilità a basso costo, abbiamo collaboratori
       selezionati per ogni intervento energetico.
     actions:
-      - label: Get started
+      - label: DAI ONA OCCHIATA
         altText: ''
         url: /
         showIcon: false
