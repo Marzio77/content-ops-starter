@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: E qui ci siamo pure
     text: >
-      Forniamo consulenze di prefattibilità a basso costo, abbiamo collaboratori
-      selezionati per ogni intervento energetico.
+      Forniamo consulenze di prefattibilità energetica a basso costo, abbiamo
+      collaboratori selezionati per ogni intervento energetico.
     actions:
       - label: DAI UNA OCCHIATA
         altText: ''
