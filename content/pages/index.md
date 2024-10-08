@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: QUESTA E' UNA PROVA
+      label: PROVA INIZIALE
       color: text-primary
       type: Badge
     elementId: ''
