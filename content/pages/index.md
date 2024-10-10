@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Anche questa si può cambiare
+      text: IN COSTRUZIONE
       color: text-dark
       type: TitleBlock
     subtitle: E qui ci siamo pure
