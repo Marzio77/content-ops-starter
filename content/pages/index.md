@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: CONSULENZE ENERGETICHE
-      color: text-neutral
+      color: text-primary
       type: TitleBlock
     subtitle: U.C.
     text: >
