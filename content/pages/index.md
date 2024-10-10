@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: IN COSTRUZIONE
+      text: CONSULENZE ENERGETICHE
       color: text-dark
       type: TitleBlock
     subtitle: U.C.
