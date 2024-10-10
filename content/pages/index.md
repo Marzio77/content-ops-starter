@@ -7,7 +7,7 @@ sections:
       text: IN COSTRUZIONE
       color: text-dark
       type: TitleBlock
-    subtitle: E qui ci siamo pure
+    subtitle: U.C.
     text: >
       Forniamo consulenze di prefattibilità energetica a basso costo, abbiamo
       collaboratori selezionati per ogni intervento energetico.
