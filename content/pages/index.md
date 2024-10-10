@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: PROVA INIZIALE
+      label: IN COSTRUZIONE
       color: text-primary
       type: Badge
     elementId: ''
